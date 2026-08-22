@@ -1,71 +1,237 @@
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    GITHUB PROFILE README                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <p align="center">
-  <a href="https://github.com/poorni-03">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=99a4b2&fontSize=54&height=90&width=634&text=Hello!%20I'm%20Poorni" alt="Hello! I&#39;m Poorni" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Hey%20there%2C%20I'm%20Poorni&fontSize=42&fontColor=ffffff&fontAlignY=38&color=0:004C99,100:0066CC&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Hey%20there%2C%20I'm%20Poorni&fontSize=42&fontColor=ffffff&fontAlignY=38&color=0:0066CC,100:004C99&animation=fadeIn">
+    <img width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&text=Hey%20there%2C%20I'm%20Poorni&fontSize=42&fontColor=ffffff&fontAlignY=38&color=0:0066CC,100:004C99&animation=fadeIn"
+      alt="Hey there, I'm Poorni">
+  </picture>
+</p>
+
+<h1 align="center">Hey there, I'm Poorni 👋</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+a+Software+Developer;MERN+Stack+%7C+React+%7C+Node.js"
+      alt="Typing SVG"
+    />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=360&height=44&lines=I%20do%20open%20source" alt="Typing headlines" />
+  <a href="https://github.com/poorni-03">
+    <img src="https://img.shields.io/github/followers/poorni-03?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=0066CC" alt="GitHub Followers">
+  </a>
+  <a href="https://github.com/poorni-03?tab=repositories">
+    <img src="https://img.shields.io/github/stars/poorni-03?label=Stars&style=for-the-badge&logo=github&logoColor=white&color=0066CC" alt="GitHub Stars">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=poorni-03&label=Profile%20Views&style=for-the-badge&color=0066CC" alt="Profile Views">
 </p>
 
-### 🚀 About Me
+<br>
 
-APIs, good tea, fast feedback loops | git commit -m "career in progress" | Full Stack Dev | React, Node, AI
+<!-- ═════════════════════════════ ABOUT ME ═════════════════════════════ -->
 
-🔭 &nbsp;I'm currently working on **Cash Application &amp; Deduction Matching Engine (B2B SaaS AR reconciliation tool)**  
-🌱 &nbsp;I'm currently learning **JavaScript fundamentals (closures, array methods, async/await) before diving back into React**  
-👯 &nbsp;I'm looking to collaborate on **open source developer tools**  
-⚡ &nbsp;Fun fact: **git commit -m "career in progress"**
+<h2 align="center">✨ About Me</h2>
 
-### 🛠️ Tech Stack
+<table align="center" width="100%">
+  <tr>
+    <td width="65%" valign="middle">
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-</p>
+### 👩‍💻 Who Am I?
 
-### 🔗 Connect With Me
+- 🎓 **B.E. Computer Science & Engineering Graduate**
+- 💻 Aspiring **Software Developer**
+- 🌐 Interested in building modern **full-stack web applications**
+- ⚛️ Currently exploring **React, Node.js & the MERN ecosystem**
+- 🧠 Passionate about **problem solving, clean code & continuous learning**
+- 🚀 Love turning ideas into **useful, scalable applications**
+- 📚 Always learning something new and improving my development skills
+- 💙 Building my journey one commit at a time
 
-<p align="left">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/poorni-chandrasekaran" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://pin.it/34Zi0VeKc" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
-  <a href="mailto:poornitc2003@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<br>
 
-### 📊 GitHub Stats
+> *"Code. Learn. Build. Improve. Repeat."*
+
+    </td>
+    <td width="35%" align="center" valign="middle">
+
+<img
+  src="https://github.com/poorni-03.png"
+  width="230"
+  alt="Poorni"
+  style="border-radius: 50%;"
+/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20to-Opportunities-0066CC?style=for-the-badge" alt="Open to Opportunities">
+
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═════════════════════════════ TECH STACK ═════════════════════════════ -->
+
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=poorni-03&show_icons=true&theme=tokyonight&title_color=99a4b2&icon_color=99a4b2&hide_border=true&bg_color=00000000&count_private=true" alt="stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=poorni-03&layout=compact&theme=tokyonight&title_color=99a4b2&icon_color=99a4b2&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,python,mongodb,postgresql,mysql,git,github,vscode&perline=7"
+    alt="Tech Stack"
+  />
 </p>
 
-### 📈 Contribution Graph
+<br>
+
+<!-- ═════════════════════════════ GITHUB STREAK ═════════════════════════════ -->
+
+<h2 align="center">🔥 GitHub Streak</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=00000000&color=99a4b2&line=99a4b2&point=c9d1d9&area=true&hide_border=true" alt="activity graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=poorni-03&theme=github-dark&hide_border=true&background=0D1117&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=0066CC&dates=8B949E">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=poorni-03&theme=default&hide_border=true&background=FFFFFF&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=0066CC&dates=57606A">
+    <img
+      src="https://streak-stats.demolab.com?user=poorni-03&theme=default&hide_border=true&background=FFFFFF&ring=0066CC&fire=0066CC&currStreakLabel=0066CC&sideLabels=0066CC&dates=57606A"
+      alt="GitHub Streak"
+    />
+  </picture>
 </p>
 
-### 💭 Dev Quote
+<br>
+
+<!-- ═════════════════════════════ ACTIVITY GRAPH ═════════════════════════════ -->
+
+<h2 align="center">📈 GitHub Activity</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev quote" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=0D1117&color=58A6FF&line=0066CC&point=58A6FF&area=true&hide_border=true&custom_title=Poorni's%20Contribution%20Activity">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=FFFFFF&color=0066CC&line=0066CC&point=004C99&area=true&hide_border=true&custom_title=Poorni's%20Contribution%20Activity">
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=FFFFFF&color=0066CC&line=0066CC&point=004C99&area=true&hide_border=true&custom_title=Poorni's%20Contribution%20Activity"
+      alt="GitHub Activity Graph"
+    />
+  </picture>
 </p>
 
----
-<p align="center"><i>⭐️ From <a href="https://github.com/poorni-03">poorni-03</a></i></p>
+<br>
+
+<!-- ═════════════════════════════ CONTRIBUTION SNAKE ═════════════════════════════ -->
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <!--
+  GitHub Action:
+  Create .github/workflows/snake.yml in your profile repository.
+
+  name: Generate Snake
+
+  on:
+    schedule:
+      - cron: "0 0 * * *"
+    workflow_dispatch:
+
+  jobs:
+    generate:
+      runs-on: ubuntu-latest
+      steps:
+        - uses: Platane/snk@v3
+          with:
+            github_user_name: ${{ github.repository_owner }}
+            outputs: |
+              dist/github-contribution-grid-snake.svg
+              dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+        - uses: crazy-max/ghaction-github-pages@v4
+          with:
+            build_dir: dist
+          env:
+            GH_PAT: ${{ secrets.GITHUB_TOKEN }}
+  -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/poorni-03/poorni-03/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/poorni-03/poorni-03/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/poorni-03/poorni-03/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake"
+      width="95%"
+    />
+  </picture>
+</p>
+
+<br>
+
+<!-- ═════════════════════════════ CONNECT ═════════════════════════════ -->
+
+<h2 align="center">🌐 Let's Connect</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/poorni-03/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0066CC?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="mailto:poorni@example.com">
+    <img
+      src="https://img.shields.io/badge/Email-0066CC?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://github.com/poorni-03">
+    <img
+      src="https://img.shields.io/badge/GitHub-0066CC?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
+</p>
+
+<p align="center">
+  <i>💙 Feel free to connect, collaborate, or say hello!</i>
+</p>
+
+<br>
+
+<!-- ═════════════════════════════ FOOTER ═════════════════════════════ -->
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:004C99,100:0066CC&animation=fadeIn">
+    <source media="(prefers-color-scheme: light)"
+      srcset="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0066CC,100:004C99&animation=fadeIn">
+    <img
+      width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0066CC,100:004C99&animation=fadeIn"
+      alt="Footer"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 💙</b>
+</p>
+
+<p align="center">
+  <sub>© 2026 Poorni • Built with curiosity, code & coffee ☕</sub>
+</p>
