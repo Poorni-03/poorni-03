@@ -14,8 +14,6 @@
   </picture>
 </p>
 
-<h1 align="center">Hey there, I'm Poorni 👋</h1>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
