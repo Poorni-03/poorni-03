@@ -89,7 +89,7 @@ The platform focuses on improving vehicle utilization, reducing unnecessary empt
 | **Performance** | Structured relational data model and API-driven architecture |
 | **Security** | Authentication-oriented architecture, role-based workflows, and protected backend operations |
 | **Impact** | Designed to reduce empty vehicle movement and improve logistics utilization |
-| **Repository** | [View Repository](https://github.com/poornitc2003) |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
 
 **Professional Engineering Scope**
 
@@ -116,7 +116,7 @@ A full-stack car rental web application designed around vehicle discovery, renta
 | **Performance** | API-driven architecture with structured database operations |
 | **Security** | Backend-controlled data operations and validation-oriented workflow |
 | **Impact** | Simplifies vehicle rental operations through a centralized digital platform |
-| **Repository** | [View Repository](https://github.com/poornitc2003) |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
 
 **Professional Engineering Scope**
 
@@ -143,7 +143,7 @@ A full-stack financial and remittance application combining a modern web interfa
 | **Performance** | MongoDB Atlas Vector Search for semantic querying |
 | **Security** | Environment-based credential management and backend-controlled API integration |
 | **Impact** | Demonstrates practical integration of AI capabilities into financial application workflows |
-| **Repository** | [View Repository](https://github.com/poornitc2003) |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
 
 **Professional Engineering Scope**
 
@@ -170,7 +170,7 @@ An intelligent legal consultation application designed to provide conversational
 | **Performance** | Lightweight frontend architecture with API-driven AI interaction |
 | **Security** | API credentials isolated from client-facing application code |
 | **Impact** | Demonstrates practical application of conversational AI to domain-specific assistance |
-| **Repository** | [View Repository](https://github.com/poornitc2003) |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
 
 **Professional Engineering Scope**
 
@@ -226,9 +226,9 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poornitc2003&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poorni-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
 
-<img src="https://streak-stats.demolab.com?user=poornitc2003&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=poorni-03&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180"/>
 
 </div>
 
@@ -236,7 +236,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poornitc2003&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorni-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
 
 </div>
 
@@ -246,7 +246,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=poornitc2003&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=poorni-03&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
 
 </div>
 
