@@ -213,13 +213,3 @@ An intelligent legal consultation application designed to provide conversational
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="./assets/github-snake.svg" width="100%" alt="GitHub Contribution Snake"/>
-
-</div>
