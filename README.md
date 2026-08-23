@@ -152,7 +152,7 @@
 
 <h2 align="center">🐍 Contribution Snake</h2>
 
-<!--
+
 Create this GitHub Action:
 
 .github/workflows/snake.yml
@@ -181,7 +181,6 @@ jobs:
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.GITHUB_TOKEN }}
--->
 
 <p align="center">
   <picture>
