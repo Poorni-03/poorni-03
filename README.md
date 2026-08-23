@@ -71,23 +71,6 @@ I approach software engineering with a product mindset: understand the problem f
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,sqlite" />
 </p>
 
----
-
-# AI/ML Expertise
-
-| Domain | Proficiency | Details |
-|---|---|---|
-| Generative AI | Advanced Beginner | Building applications around modern generative AI APIs and intelligent workflows |
-| Embeddings | Intermediate | Semantic representation, vector search, and retrieval-oriented application design |
-| RAG Concepts | Intermediate | Exploring retrieval pipelines, contextual generation, and knowledge-grounded systems |
-| Machine Learning | Intermediate | Applied ML concepts for prediction, classification, and intelligent applications |
-| NLP | Intermediate | Text processing, semantic understanding, embeddings, and language-model applications |
-| AI Application Engineering | Intermediate | Integrating AI capabilities into practical full-stack products |
-| Prompt Engineering | Intermediate | Designing structured prompts for reliable and useful model behavior |
-| Computer Vision | Beginner | Exploring image-based ML workflows and applied visual intelligence |
-
----
-
 # Featured Projects
 
 <details>
