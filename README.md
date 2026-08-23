@@ -276,4 +276,4 @@ style=for-the-badge&logo=firefox&logoColor=white"/>
 <div align="center">“Build with purpose. Engineer with precision. Keep learning.”
 
 <br/><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E1B4B,50:6D28D9,100:312E81&section=footer&animation=twinkling" width="100%"/></div>
-```
+
