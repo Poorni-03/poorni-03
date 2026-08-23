@@ -219,16 +219,13 @@ An intelligent legal consultation application designed to provide conversational
 </a>
 
 </div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poorni-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poorni-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true" height="180" alt="GitHub Stats"/>
 
-<img src="https://streak-stats.demolab.com?user=poorni-03&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180"/>
+<img src="https://streak-stats.demolab.com?user=poorni-03&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180" alt="GitHub Streak"/>
 
 </div>
 
@@ -236,7 +233,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorni-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorni-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
@@ -246,7 +243,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=poorni-03&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=poorni-03&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
@@ -256,7 +253,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution Activity Graph"/>
 
 </div>
 
@@ -269,11 +266,3 @@ An intelligent legal consultation application designed to provide conversational
 <img src="https://raw.githubusercontent.com/poorni-03/poorni-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
-
-style=for-the-badge&logo=firefox&logoColor=white"/>
-</a></div>---
-
-<div align="center">“Build with purpose. Engineer with precision. Keep learning.”
-
-<br/><img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:1E1B4B,50:6D28D9,100:312E81&section=footer&animation=twinkling" width="100%"/></div>
-
