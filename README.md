@@ -233,12 +233,6 @@ An intelligent legal consultation application designed to provide conversational
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorni-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
 ---
 
 # Contribution Activity
