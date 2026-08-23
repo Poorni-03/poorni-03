@@ -219,7 +219,6 @@ An intelligent legal consultation application designed to provide conversational
 </a>
 
 </div>
----
 
 # GitHub Analytics
 
