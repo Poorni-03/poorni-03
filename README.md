@@ -183,32 +183,6 @@ An intelligent legal consultation application designed to provide conversational
 
 </details>
 
----
-
-# Experience
-
-### Full Stack Developer — Sisesoft IT Solutions
-
-**June 2025 – July 2025**
-
-Worked on full-stack development during an industry internship, gaining practical exposure to frontend development, backend services, databases, API integration, debugging, and software development workflows.
-
-**Scope of Work**
-
-- Developed and integrated web application functionality
-- Worked across frontend and backend layers
-- Implemented backend APIs and database interactions
-- Debugged application-level issues and API failures
-- Worked with relational database concepts
-- Practiced Git-based development workflows
-- Collaborated on implementation and testing activities
-
-**Skills**
-
-`JavaScript` `Node.js` `Express` `SQL` `PostgreSQL` `REST APIs` `Git` `Postman`
-
----
-
 # Achievements
 
 <div align="center">
@@ -223,44 +197,6 @@ Worked on full-stack development during an industry internship, gaining practica
 | **Full-Stack Development** | Developed end-to-end applications spanning frontend, backend, databases, and APIs |
 
 </div>
-
----
-
-# Certifications
-
-### AWS
-
-<p>
-<a href="https://aws.amazon.com/certification/">
-<img src="https://img.shields.io/badge/AWS-Cloud%20Computing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900"/>
-</a>
-</p>
-
-### Oracle
-
-<p>
-<a href="https://education.oracle.com/">
-<img src="https://img.shields.io/badge/Oracle-Technology-EA1B22?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
-</p>
-
-### NPTEL
-
-<p>
-<a href="https://nptel.ac.in/">
-<img src="https://img.shields.io/badge/NPTEL-Certified%20Course-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-</p>
-
-### Cisco
-
-<p>
-<a href="https://www.netacad.com/">
-<img src="https://img.shields.io/badge/Cisco-Networking%20Academy-1D4ED8?style=for-the-badge&logo=cisco&logoColor=white"/>
-</a>
-</p>
-
----
 
 # Coding Profiles
 
