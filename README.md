@@ -24,17 +24,13 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=poornitc2003&label=PROFILE%20VIEWS&color=7C3AED&style=for-the-badge" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/poornitc2003?label=FOLLOWERS&style=for-the-badge&color=6366F1&logo=github" alt="Followers"/>
-<img src="https://img.shields.io/github/stars/poornitc2003?label=STARS&style=for-the-badge&color=8B5CF6&logo=github" alt="Stars"/>
-
 </div>
 
 ---
 
 # About Me
 
-I am a **Computer Science Engineer and Software Developer** focused on building reliable, scalable, and user-centric software systems.
+I am a **Computer Science and Engineering Graduate** focused on building reliable, scalable, and user-centric software systems.
 
 My engineering interests span **full-stack development, AI/ML, backend engineering, intelligent applications, and product engineering**. I enjoy taking a problem from its initial concept through architecture, implementation, integration, testing, and deployment.
 
@@ -47,7 +43,6 @@ I approach software engineering with a product mindset: understand the problem f
 - Developing intelligent applications using **AI/ML and embeddings**
 - Working with relational and document-oriented data
 - Creating responsive, accessible, and scalable user interfaces
-- Applying software engineering principles to real-world problems
 - Learning continuously through projects, algorithms, and technical experimentation
 
 ### Open To
@@ -74,12 +69,6 @@ I approach software engineering with a product mindset: understand the problem f
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,sqlite" />
-</p>
-
-### Cloud, DevOps & Tooling
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,terraform,postman,linux,vscode" />
 </p>
 
 ---
