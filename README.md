@@ -74,62 +74,6 @@ I approach software engineering with a product mindset: understand the problem f
 # Featured Projects
 
 <details>
-<summary><strong>Efficient Empty Returns — Logistics Optimization Platform</strong></summary>
-
-<br/>
-
-A logistics platform designed to reduce empty truck return journeys by connecting available returning vehicles with suitable shipment opportunities.
-
-The platform focuses on improving vehicle utilization, reducing unnecessary empty mileage, and creating a more efficient workflow between carriers and shippers.
-
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | HTML · CSS · JavaScript · Node.js · Express · PostgreSQL |
-| **Scale** | Multi-role logistics workflow with carrier, shipper, booking, shipment, and administration modules |
-| **Performance** | Structured relational data model and API-driven architecture |
-| **Security** | Authentication-oriented architecture, role-based workflows, and protected backend operations |
-| **Impact** | Designed to reduce empty vehicle movement and improve logistics utilization |
-| **Repository** | [View Repository](https://github.com/poorni-03) |
-
-**Professional Engineering Scope**
-
-- Designed separate workflows for carriers and shippers
-- Developed vehicle and shipment management functionality
-- Implemented booking-oriented backend workflows
-- Structured PostgreSQL entities around users, vehicles, loads, bookings, shipments, documents, reviews, and notifications
-- Built administrative metrics for operational visibility
-- Focused on maintainability and real-world logistics workflows
-
-</details>
-
-<details>
-<summary><strong>ZoomRent — Full-Stack Car Rental Platform</strong></summary>
-
-<br/>
-
-A full-stack car rental web application designed around vehicle discovery, rental workflows, customer interactions, and backend data management.
-
-| Metric | Engineering Detail |
-|---|---|
-| **Stack** | Angular · Node.js · Express · PostgreSQL |
-| **Scale** | End-to-end rental workflow with frontend, backend, and relational persistence |
-| **Performance** | API-driven architecture with structured database operations |
-| **Security** | Backend-controlled data operations and validation-oriented workflow |
-| **Impact** | Simplifies vehicle rental operations through a centralized digital platform |
-| **Repository** | [View Repository](https://github.com/poorni-03) |
-
-**Professional Engineering Scope**
-
-- Developed a component-driven Angular frontend
-- Implemented backend services using Node.js and Express
-- Integrated PostgreSQL for persistent application data
-- Designed rental-oriented workflows and business logic
-- Connected frontend interfaces with backend APIs
-- Focused on clean separation between presentation, application logic, and persistence
-
-</details>
-
-<details>
 <summary><strong>RemitPulse — AI-Powered Financial & Remittance Application</strong></summary>
 
 <br/>
@@ -157,6 +101,35 @@ A full-stack financial and remittance application combining a modern web interfa
 </details>
 
 <details>
+<summary><strong>Efficient Empty Returns — Logistics Optimization Platform</strong></summary>
+
+<br/>
+
+A logistics platform designed to reduce empty truck return journeys by connecting available returning vehicles with suitable shipment opportunities.
+
+The platform focuses on improving vehicle utilization, reducing unnecessary empty mileage, and creating a more efficient workflow between carriers and shippers.
+
+| Metric | Engineering Detail |
+|---|---|
+| **Stack** | HTML · CSS · JavaScript · php · SQLite |
+| **Scale** | Multi-role logistics workflow with carrier, shipper, booking, shipment, and administration modules |
+| **Performance** | Structured relational data model and API-driven architecture |
+| **Security** | Authentication-oriented architecture, role-based workflows, and protected backend operations |
+| **Impact** | Designed to reduce empty vehicle movement and improve logistics utilization |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
+
+**Professional Engineering Scope**
+
+- Designed separate workflows for carriers and shippers
+- Developed vehicle and shipment management functionality
+- Implemented booking-oriented backend workflows
+- Structured PostgreSQL entities around users, vehicles, loads, bookings, shipments, documents, reviews, and notifications
+- Built administrative metrics for operational visibility
+- Focused on maintainability and real-world logistics workflows
+
+</details>
+
+<details>
 <summary><strong>Legal Consultation Chatbot — AI-Assisted Application</strong></summary>
 
 <br/>
@@ -180,6 +153,33 @@ An intelligent legal consultation application designed to provide conversational
 - Designed conversational interaction flows
 - Applied domain-specific prompting concepts
 - Structured the project for future expansion into retrieval and knowledge-grounded workflows
+
+</details>
+
+<details>
+<summary><strong>ZoomRent — Full-Stack Car Rental Platform</strong></summary>
+
+<br/>
+
+A full-stack car rental web application designed around vehicle discovery, rental workflows, customer interactions, and backend data management.
+
+| Metric | Engineering Detail |
+|---|---|
+| **Stack** | Angular · Node.js · Express · PostgreSQL |
+| **Scale** | End-to-end rental workflow with frontend, backend, and relational persistence |
+| **Performance** | API-driven architecture with structured database operations |
+| **Security** | Backend-controlled data operations and validation-oriented workflow |
+| **Impact** | Simplifies vehicle rental operations through a centralized digital platform |
+| **Repository** | [View Repository](https://github.com/poorni-03) |
+
+**Professional Engineering Scope**
+
+- Developed a component-driven Angular frontend
+- Implemented backend services using Node.js and Express
+- Integrated PostgreSQL for persistent application data
+- Designed rental-oriented workflows and business logic
+- Connected frontend interfaces with backend APIs
+- Focused on clean separation between presentation, application logic, and persistence
 
 </details>
 
