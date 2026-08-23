@@ -6,8 +6,6 @@
   />
 </p>
 
-<h1 align="center">Hey there, I'm Poorni 👋</h1>
-
 <p align="center">
   Software Developer | Full-Stack Development | MERN Stack
 </p>
