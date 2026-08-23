@@ -225,7 +225,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poorni-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=poorni-3&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&ring_color=7C3AED&include_all_commits=true" height="180" alt="GitHub Stats"/>
 
 <img src="https://streak-stats.demolab.com?user=poorni-03&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180" alt="GitHub Streak"/>
 
@@ -236,16 +236,6 @@ An intelligent legal consultation application designed to provide conversational
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poorni-03&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C4B5FD&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=poorni-03&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" width="95%" alt="GitHub Trophies"/>
 
 </div>
 
