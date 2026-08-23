@@ -256,7 +256,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poornitc2003&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poorni-03&bg_color=0D1117&color=C4B5FD&line=7C3AED&point=A78BFA&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%"/>
 
 </div>
 
@@ -266,7 +266,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/poornitc2003/poornitc2003/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/poornitc2003/poorni-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
