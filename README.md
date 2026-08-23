@@ -231,8 +231,6 @@ An intelligent legal consultation application designed to provide conversational
 
 <br/>
 
----
-
 # Contribution Activity
 
 <div align="center">
