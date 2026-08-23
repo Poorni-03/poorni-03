@@ -266,7 +266,7 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/poornitc2003/poorni-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/poorni-03/poorni-03/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
 
 </div>
 
