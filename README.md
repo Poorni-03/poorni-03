@@ -270,53 +270,7 @@ An intelligent legal consultation application designed to provide conversational
 
 </div>
 
----
-
-# Current Focus
-
-```yaml
-Learning:
-  - Java
-  - Data Structures & Algorithms
-  - React
-  - TypeScript
-  - Next.js
-  - Advanced Software Engineering
-  - AI/ML Application Development
-
-Building:
-  - Production-oriented full-stack applications
-  - AI-powered products
-  - Scalable backend services
-  - Developer-focused projects
-
-Exploring:
-  - Generative AI
-  - Embeddings & Vector Search
-  - Retrieval-Augmented Generation
-  - Intelligent Application Architecture
-  - Cloud & DevOps Engineering
-
-Open To:
-  - Software Engineering Roles
-  - Full-Stack Development
-  - Backend Engineering
-  - AI/ML Engineering
-  - Product Engineering
-  - Open Source Collaboration
-
----
-
-Connect
-
-<div align="center"><a href="mailto:poornichandrasekaran@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a><a href="https://www.linkedin.com/in/poorni-chandrasekaran/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a><a href="https://github.com/poornitc2003">
-<img src="https://img.shields.io/badge/GitHub-Follow-1E1B4B?style=for-the-badge&logo=github&logoColor=white"/>
-</a><a href="https://github.com/poornitc2003">
-<img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=firefox&logoColor=white"/>
+style=for-the-badge&logo=firefox&logoColor=white"/>
 </a></div>---
 
 <div align="center">“Build with purpose. Engineer with precision. Keep learning.”
