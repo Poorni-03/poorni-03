@@ -62,7 +62,7 @@ I approach software engineering with a product mindset: understand the problem f
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,angular,vite,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
 </p>
 
 ### Backend & Databases
