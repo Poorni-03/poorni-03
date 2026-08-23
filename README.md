@@ -225,8 +225,6 @@ An intelligent legal consultation application designed to provide conversational
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=poorni-03&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&include_all_commits=true" height="180" alt="GitHub Stats"/>
-
 <img src="https://streak-stats.demolab.com?user=poorni-03&theme=transparent&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=8B5CF6&dates=94A3B8" height="180" alt="GitHub Streak"/>
 
 </div>
