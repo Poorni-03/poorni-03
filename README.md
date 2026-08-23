@@ -7,19 +7,6 @@
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=850&lines=Building+reliable+software+with+purpose.;Engineering+full-stack+products+from+idea+to+deployment.;Exploring+AI%2FML+and+intelligent+applications.;Turning+complex+problems+into+clean%2C+scalable+systems." alt="Typing SVG"/>
 </a>
-
-<br/><br/>
-
-<a href="https://www.adhiyamaan.ac.in/">
-  <img src="https://img.shields.io/badge/B.E.%20Computer%20Science-7.93%2F10-6366F1?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-</a>
-<a href="https://www.adhiyamaan.ac.in/">
-  <img src="https://img.shields.io/badge/Adhiyamaan%20College%20of%20Engineering-4F46E5?style=for-the-badge&logo=academia&logoColor=white"/>
-</a>
-<a href="https://www.google.com/maps/search/Hosur%2C+Tamil+Nadu%2C+India">
-  <img src="https://img.shields.io/badge/Hosur%2C%20Tamil%20Nadu%2C%20India-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/poornitc2003">
