@@ -56,7 +56,7 @@ I approach software engineering with a product mindset: understand the problem f
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,html,css,python" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,python" />
 </p>
 
 ### Frontend
